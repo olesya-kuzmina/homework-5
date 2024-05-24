@@ -19,6 +19,6 @@ public class Task07 {
                 result += c;
             }
         }
-        System.out.println(" Результат: " + result);
+        System.out.print(" Результат: " + result);
     }
 }
